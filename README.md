@@ -1,2 +1,2 @@
-# fun_front-end_demo_created_for_my_girlfriend
-给女朋友写的前端有趣小项目
+# fun_demo_created_for_my_girlfriend
+给女朋友写的有趣小项目
